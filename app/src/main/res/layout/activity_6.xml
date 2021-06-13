@@ -59,7 +59,7 @@
             android:layout_width="193dp"
             android:layout_height="63dp"
             android:layout_marginLeft="110dp"
-            android:layout_marginTop="60dp"
+            android:layout_marginTop="50dp"
             android:layout_marginRight="110dp"
             android:text="Edit Profile" />
 
@@ -71,5 +71,14 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="110dp"
             android:text="Change Password" />
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="300dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="20dp"
+            android:text="BACK" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
