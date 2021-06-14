@@ -9,6 +9,7 @@ public class Activity_7 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setTitle("Thông báo");
         setContentView(R.layout.activity_7);
     }
 }
