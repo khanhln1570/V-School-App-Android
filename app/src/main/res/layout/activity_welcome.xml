@@ -33,7 +33,7 @@
         android:layout_width="226dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Phần mềm tương tác Phụ huynh - Nhà trường"
+        android:text="Phần mềm tương tác Phụ huynhg - Nhà trường"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="20dp"></TextView>
